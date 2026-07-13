@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fuzhongyuan504-ship-it.github.io/probability-30-days/sitemap.xml
