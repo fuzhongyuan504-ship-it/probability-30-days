@@ -26,7 +26,7 @@ Just open `index.html` in any modern browser:
 直接用浏览器打开 `index.html` 即可：
 
 ```bash
-git clone https://github.com/<your-username>/probability-30-days.git
+git clone https://github.com/fuzhongyuan504-ship-it/probability-30-days.git
 cd probability-30-days
 open index.html      # macOS
 # or double-click index.html in Finder / Explorer
